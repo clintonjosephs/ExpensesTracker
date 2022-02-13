@@ -6,7 +6,7 @@
 
 [Demo Link - Netlify](https://nervous-shaw-148c7b.netlify.app/)
 
-> Use ExpensesTracker to track monthly and yearly expenses. Very simple to use, all you need do is enter the details of the expenses made with date and, voila! ExpensesTracker handled the rest.Built with React Library, HTML, CSS, and JavaScript it has a bar chart feature that gives a pictorial overview of the expenses based on selected year.
+> Use ExpensesTracker to track monthly and yearly expenses. Very simple to use, all you need do is enter the details of the expenses made with date and, voila! ExpensesTracker handles the rest. Built with React Library, HTML, CSS, and JavaScript, it has a bar chart feature that gives a pictorial overview of the expenses based on selected year.
 
 
 Additional description about the project and its features.
